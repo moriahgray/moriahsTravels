@@ -1,0 +1,11 @@
+node_modules/
+target/
+.env
+node_modules/ # For frontend dependencies
+build/ # React build files
+target/ # Rust build artifacts
+.DS_Store # macOS system files
+.env # Environment files
+Cargo.lock # Optional, for Rust dependencies lock
+.DS_Store
+.DS_Store
